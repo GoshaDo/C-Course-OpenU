@@ -12,7 +12,6 @@ This project is an assignment in a C programming course at the open unvieristy (
 4. `func` - contains useful function for processing code.
 5. `globals.h` - contains type and constant definitions.
 6. `table` - contains definition of table-like linked list data structure.
-7. `makefile `- contains methods for writing output files: *.ob, *.ext and *.ent
 
 # Usage
 
